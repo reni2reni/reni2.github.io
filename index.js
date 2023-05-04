@@ -8,8 +8,8 @@
 
         const variableStyle = theme.blockStyles["variable-block-style"];
         variableStyle.colourPrimary = "#b53e3e";
-        variableStyle.colourSecondary = "#782424";
-        variableStyle.colourTertiary = "#782424";
+        variableStyle.colourSecondary = "#382424";
+        variableStyle.colourTertiary = "#382424";
 
         _Blockly.getMainWorkspace().setTheme(theme);
     };
